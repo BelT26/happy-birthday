@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url(./assets/images/abstract-g968b1ab2d_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+#container-inner {
+    background-color: rgb(224, 241, 241);
+    text-align: center;
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 50px auto;
+    align-self: center;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: blue;
+    border: cornflowerblue solid 10px;
+}
+
+.envelope {
+    width: 200px;
+}
