@@ -6,7 +6,7 @@ body {
     background-image: url(./assets/images/abstract-g968b1ab2d_1920.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: cursive;
 }
 
 #container {
@@ -18,10 +18,10 @@ body {
 }
 
 #container-inner {
-    background-color: rgb(224, 241, 241);
+    background-color: palegoldenrod;
     text-align: center;
-    width: 80%;
-    height: 80%;
+    width: 75%;
+    height: auto;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
